@@ -1,4 +1,4 @@
-# mcpcourse
+# MCP SERVER
 
 This project uses the MCP FastMCP server in `server/weather.py`.
 
